@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xin Lin"
+title                    : "Xin"
 title_separator          : "-"
 name                     : &name "Xin Lin"
 description              : &description "Master student at HNU"
@@ -37,7 +37,7 @@ author:
   #orcid            : "http://orcid.org/yourorcidurl"
   #semantic         : # URL
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  #researchgate     :  "https://www.researchgate.net/profile/Yuhan-Yang-16"
+  #researchgate     :  "https://www.researchgate.net/profile/Xin-Lin-120"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
