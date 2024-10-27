@@ -12,18 +12,18 @@ redirect_from:
 * My passion lies in comprehending the diverse and intriguing **phase equilibrium and transition processes of water** in porous media, as well as water droplets, and unraveling their implications on the behaviour of frozen porous materials. I am try to integrate cutting-edge insights from **surface and interfacial science**, **nucleation theory**, and **soil-water interaction theory**, while utilizing advanced **microscopic experiments** (e.g., X-ray wide-angle/small-angle scattering, infrared spectroscopy, high-speed photography, etc.) to delve into the physics of pore water freezing, ice propagation dynamics, unfrozen water behavior in frozen soil, and the fundamental mechanisms at play. 
 * Within Prof. Zhang's diverse and engaging research group, I have had the invaluable opportunity to deeply participant in various intriguing research topics with my group menbers, such as vapor sorption and capillary condensation in soil, desiccation cracking in porous media, isotope fractionation, and flow in porous media. 
 
-* If you are interested in my research, please get in touch with me via email (xin_lin@hnu.edu.cn) or [WeChat](../images/wechat.jpg). 
+* If you are interested in my research, please get in touch with me via email (xin_lin@hnu.edu.cn) or [WeChat](../images/wechat.png). 
 
 News
 ======
 
-**Conference(05/24):** I attenend the InterPore Annual Meeting at Qingdao and presented a poster.
+**Conference(05/24):** I attenend the _InterPore Annual Meeting_ at Qingdao and presented a poster.
 
 **Paper(02/24):** Our paper titled ["Heterogeneous ice nucleation of salt solution in porous media"](https://doi.org/10.1063/5.0190862) was published in _The Journal of Chemical Physics_.
 
-**Experiment(12/23):** I conducted WAXS and SAXS field experiments at Shanghai Synchrotron Radiation Facility (SSRF).
+**Experiment(12/23):** I conducted WAXS and SAXS field experiments at _Shanghai Synchrotron Radiation Facility_ at Shanghai.
 
-**Conference(7/23):** I attended the 11th Annual Academic Conference of Shanghai Synchrotron Radiation Facility(SSRF) at Yantai.
+**Conference(7/23):** I attended _the 11th Annual Academic Conference of Shanghai Synchrotron Radiation Facility_ at Yantai.
 
 
 
