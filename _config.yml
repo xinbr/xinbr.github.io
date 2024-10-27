@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Changsha, China"
+locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Xin Lin"
