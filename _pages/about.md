@@ -7,29 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a graduate student in the College of Civil Engineering at Hunan University, supervised by [Prof. Chao Zhang](https://www.researchgate.net/profile/Chao-Zhang-43). I joined Prof. Zhang's [UNSAT lab](https://chaozhanghnu.github.io) in 2021 as a 3-rd year undergraduate student, and completed my B.S. degree in 2020 at the same institution.
+* _I am currently a graduate student in the College of Civil Engineering at Hunan University, supervised by [Prof. Chao Zhang](https://www.researchgate.net/profile/Chao-Zhang-43). I joined Prof. Zhang's [UNSAT lab](https://chaozhanghnu.github.io) in 2021 as a 3-rd year undergraduate student, and completed my B.S. degree in 2020 at the same institution.
 
-In the UNSAT lab, I belong to a six-member group focusing on stress state and constitutive relation for unsaturated soil. I assisted Prof. Zhang in managing this group and worked closely with the other five members. In addition to my research regarding desiccation cracking in porous media, I deeply participate in the research of the other five members, e.g., clay pore structure evolution via small-angle neutron scattering and small-angle scattering X-ray scattering, development of swimming robot in granular environments, deep-buried soil's anisotropies in fabric, stress and modulus, loading collapse phenomenon in high-expansive clay, etc. 
+* _My passion lies in comprehending the diverse and intriguing phase equilibrium and transition processes of water in porous media, as well as water droplets, and unraveling their implications on the behaviour of frozen porous materials. I am try to integrate cutting-edge insights from surface and interfacial science, nucleation theory, and soil-water interaction theory, while utilizing advanced microscopic experiments (e.g., X-ray wide/small-angle scattering, infrared spectroscopy, high-speed photography, etc.) to delve into the physics of pore water freezing, ice propagation dynamics, unfrozen water behavior in frozen soil, and the fundamental mechanisms at play. 
+* _Within Prof. Zhang's diverse and engaging research group, I have had the invaluable opportunity to deeply participant in various intriguing research topics, such as vapor sorption and capillary condensation in soil (Shaojie Hu), desiccation cracking in porous media (Yuhan Yang), isotope fractionation (Lijun Li), and flow in porous media (Lingyun Gou). My fellow group members are the most incredible, talented, and beautiful partners ever.
 
-Research interests
-======
-<div style="text-align: center;">
-  <img src="../images/MudCrack.png" alt="Mud crack pattern" title="Desiccation cracks in clay" width="298" />
-  <img src="../images/DCprocess.gif" alt="Cracking process via DIC" title="Desiccation cracking process via DIC" width="420" />
-</div>
-
-
-My recent research passion lies in understanding **the underlying physics of desiccation cracking in porous media** (particularly in soils), which is a ubiquitous phenomenon in both nature and industry. It is a highly non-linear process, involving multi-physics processes such as evaporation, two-phase flow of vapor and water, heat transfer, and build-up of stress due to both the capillary pressure and the adsorption between nano-particles. With such complex processes:
-
-* _How can we accurately predict the initiation of desiccation cracks?_ 
-
-* _What is the key mechanism governing the fascinating self-organized pattern of desiccation cracks?_ 
-
-* _Can we manipulate the propagation of desiccation cracks to create specific patterns on micro and nano scales?_ 
-
-Now, I am trying to integral cutting-edge insights from **optical measurement techniques** (e.g., digital image correlation, micron CT, high-speed photography, etc.), **elastic-plastic fracture mechanics**, **phase transition theory in statistic physics**, and **fractal theory** to explore the physics of crack initiation and propagation, as well as the key underlying mechanism and statistic properties of desiccation crack pattern. 
-
-If you are interested in my research, please get in touch with me via email (yhyang@hnu.edu.cn) or [WeChat](../images/wechat.jpg). 
+* If you are interested in my research, please get in touch with me via email (yhyang@hnu.edu.cn) or [WeChat](../images/wechat.jpg). 
 
 News
 ======
