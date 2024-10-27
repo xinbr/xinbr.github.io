@@ -12,21 +12,19 @@ redirect_from:
 * _My passion lies in comprehending the diverse and intriguing phase equilibrium and transition processes of water in porous media, as well as water droplets, and unraveling their implications on the behaviour of frozen porous materials. I am try to integrate cutting-edge insights from surface and interfacial science, nucleation theory, and soil-water interaction theory, while utilizing advanced microscopic experiments (e.g., X-ray wide/small-angle scattering, infrared spectroscopy, high-speed photography, etc.) to delve into the physics of pore water freezing, ice propagation dynamics, unfrozen water behavior in frozen soil, and the fundamental mechanisms at play. 
 * _Within Prof. Zhang's diverse and engaging research group, I have had the invaluable opportunity to deeply participant in various intriguing research topics, such as vapor sorption and capillary condensation in soil (Shaojie Hu), desiccation cracking in porous media (Yuhan Yang), isotope fractionation (Lijun Li), and flow in porous media (Lingyun Gou). My fellow group members are the most incredible, talented, and beautiful partners ever.
 
-* If you are interested in my research, please get in touch with me via email (yhyang@hnu.edu.cn) or [WeChat](../images/wechat.jpg). 
+* If you are interested in my research, please get in touch with me via email (xin_lin@hnu.edu.cn) or [WeChat](../images/wechat.jpg). 
 
 News
 ======
-**Conference(12/24):** I will attend the _AGU Annual Meeting_ and give an oral presentation or a poster titled "Nucleation-percolation transition in clay desiccation cracking".
 
-**Conference(08/24):** I attended the _IUTAM Symposium Interface Mechanics of Complex Flows and Soft Matter_ and presented a poster.
+**Conference(05/24):** I attenend the InterPore Annual Meeting at Qingdao and presented a poster.
 
-**Patent(06/24):** Our patent was granted (CN202410502010.9), which is about _a new device_ for measuring the fracture toughness of unsaturated clay.
+**Paper(02/24):** Our paper titled ["Heterogeneous ice nucleation of salt solution in porous media"](https://doi.org/10.1063/5.0190862) was published in _The Journal of Chemical Physics_.
 
-**Conference(06/24):** I attended the _1st International Yuelu Symposium on “Geotechnical and Underground Engineering”_ and presented a poster titled "Fabric, stress, and modulus anisotropies of sands during high-stress oedometer test". 
+**Experiment(12/23):** I conducted WAXS and SAXS field experiments at Shanghai Synchrotron Radiation Facility (SSRF).
 
-**Talk(05/24):** I have given an oral presentation about the "Role of substrate roughness in soil desiccation cracking" at _InterPore Annual Meeting_.
+**Conference(7/23):** I attended the 11th Annual Academic Conference of Shanghai Synchrotron Radiation Facility(SSRF) at Yantai.
 
-**Paper(03/24):** Our paper titled ["Role of substrate roughness in soil desiccation cracking"](https://doi.org/10.1139/cgj-2023-0638) was published in _Canadian Geotechnical Journal_.
 
 
 
