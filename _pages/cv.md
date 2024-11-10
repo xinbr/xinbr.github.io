@@ -58,13 +58,11 @@ Research Experience: Taking the Lead
 Research Experience: Participating in
 ======
 
-* Freezing-induced stress and flow in porous media (Aug. 2024 ~ Present).
+* Freezing-induced stress and flow in porous media (Aug. 2023 ~ Present).
 
-* Developing a swimming robot in granular media (Jul. 2024 ~ Present).
+* Infrared Spectroscopy for Detecting Water Structure and Content in Soil (Jan. 2024 ~ Present).
 
-* Loading collapse in clays of high expansibility (Jun. 2023 ~ Present).
-
-* Nanopore evolution in clay during drying via small-angle neutron scattering and small-angle X-ray scattering (Nov. 2022 ~ Present).
+* Nanopore evolution in clay during drying via small-angle neutron scattering and small-angle X-ray scattering (Jul. 2023 ~ Present).
 
 Skills
 ======
