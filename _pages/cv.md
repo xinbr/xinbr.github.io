@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/969abed1-abd2-4b7d-b075-4162337131d2)---
+![image](https://github.com/user-attachments/assets/75f8049d-5477-4cdf-a2b0-3cf7893dcd45)![image](https://github.com/user-attachments/assets/969abed1-abd2-4b7d-b075-4162337131d2)---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -67,59 +67,43 @@ Research Experience: Participating in
 Skills
 ======
 * Knowledge
+  * Nucleation theory
+  * Crystal growth theory
+  * Water potential theory
+  * Soil-water interaction mechanism
   * Unsaturated soil mechanics
-  * Fracture mechanics
-  * Fractal theory
-  * Phase transition theory: nucleation and percolation
-  * Critical state soil mechanics
+    
 * Experiment skill
-  * Digital image correlation (DIC)
+  * Cryostage for freezing experiments
   * High-speed photography
-  * Bender element
-  * Small-angle neutron scattering (SANS) and small-angle X-ray scattering (SAXS) tests
-  * Scanning electron microscopy (SEM) test
-  * Mercury intrusion porosimetry (MIP) test
+  * Wide-angle and small-angle X-ray scattering (WAXS/SAXS) tests
+  * Infrared spectroscopy
+  * Differential scanning calorimetry (DSC)
   * Microfluidic chips
-  * Single chip microcomputer (SCM)
-* Programming & Software
-  * C language programming
-  * Python
-  * YADE (open-source software of discrete element method)
+* Software & Tools
   * Matlab
-  * ANSYS & PLAXIS (software of finite element method)
-  * Paraview
   * COMSOL
+  * Python
 
 Talks
 ======
-* **IUTAM Symposium Interface Mechanics of Complex Flows and Soft Matter**, Beijing, China, Aug. 2024.
-**Poster**: Role of substrate roughness in soil desiccation cracking.
-
-<div style="text-align: center;">
-  <img src="../images/Poster substrate.jpg" alt="Poster" title="Poster" width="600" />
-</div>
 
 * **InterPore 2024**, Qingdao, China, May 2024.
-**Oral presentation**: Role of substrate roughness in soil desiccation cracking. 
+**Poster**: Heterogeneous ice nucleation of salt solution in porous media. 
 
-* **1st International Yuelu Symposium on “Geotechnical and Underground Engineering”**, Changsha, China, Jun. 2024.
-**Poster**: Fabric, stress, and modulus anisotropies of sands during high-stress oedometer test.
 
-<div style="text-align: center;">
-  <img src="../images/Poster deep soil.jpg" alt="Poster" title="Poster" width="600" />
-</div>
 
-Honors and Awards
+Selected Honors and Awards
 ======
-Outstanding Undergraduate Graduates of Hunan University, May 2021.
+Outstanding Undergraduate Graduates of Hunan University, Hunan University, May 2022.
 
-First Class Scholarship of Hunan University, Nov. 2020.
+Chinese National Inspirational Scholarship, Ministry of Education of the People’s Republic of China, December 2020, 2021
 
-Merit Student of Hunan University, Nov. 2020.
+First Class Scholarship of Hunan University, Hunan University, November 2019, 2022, 2023, 2024
 
-Champion of Hunan University Soccer League, Jun. 2019.
+Haofen Scholarship of Hunan University, Hunan University, October 2020,2021
 
-Champion of Changsha Soccer League, Nov. 2018.
+Merit Student of Hunan University, Hunan University, November 2019, 2020.
 
-Excellent Organizer of Hunan University athletic meeting, Nov. 2018.
+
   
