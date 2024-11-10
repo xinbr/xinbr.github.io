@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/969abed1-abd2-4b7d-b075-4162337131d2)---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -11,19 +11,19 @@ redirect_from:
 
 Education and Qualifications
 ======
-* **Ph.D in Civil Engineering ([ARWU Top 15 Academic Subjects Worldwide](https://www.shanghairanking.com/rankings/gras/2023/RS0211)), Hunan University**, Sep. 2021 - Present
+* **Master in Civil Engineering ([ARWU Top 15 Academic Subjects Worldwide](https://www.shanghairanking.com/rankings/gras/2023/RS0211)), Hunan University**, Sep. 2022 - Present
 
-  Core-curriculum: Numerical Analysis, Rock and Soil Dynamics, Advanced Soil Mechanics.
+  Core-curriculum: Advanced Soil Mechanics, Dynamics of Structure, Rock and Soil Dynamics.
   
-* **B.S. in Civil Engineering ([ARWU Top 15 Academic Subjects Worldwide](https://www.shanghairanking.com/rankings/gras/2023/RS0211)), Hunan University**, Sep. 2017 - Jun. 2021
+* **B.S. in Civil Engineering ([ARWU Top 15 Academic Subjects Worldwide](https://www.shanghairanking.com/rankings/gras/2023/RS0211)), Hunan University**, Sep. 2018 - Jun. 2022
 
-  Core curriculum: Advanced Mathematics, Theory of Elasticity, Mechanics of Materials, Fluid Mechanics, Soil Mechanics, Structural Mechanics.
+  Core curriculum:  Fluid Mechanics, Soil Mechanics, Structural Mechanics, Advanced Mathematics, Theory of Elasticity, Mechanics of Materials.
 
-  GPA: 3.77/4.00.          Ranking: 6/43.
+  GPA: 3.67/4.00.          Ranking: 3/51.
 
 Research Interests
 ======
-Desiccation Cracking in Porous Media; Drying Process of Colloidal Material; Fracture Mechanics of Soft Matters; Unsaturated Soils Mechanics. 
+Water phase transitions in porous media; Freezing behavior of water droplets; Unsaturated Soils Mechanics. 
 
 Publications
 ======
