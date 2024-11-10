@@ -23,7 +23,7 @@ Education and Qualifications
 
 Research Interests
 ======
-Water phase transitions in porous media; Freezing behavior of water droplets; Unsaturated Soils Mechanics. 
+Water Phase Transitions and Equilibriums in Porous Media; Freezing Behavior of Water Droplets; Unsaturated Soils Mechanics. 
 
 Publications
 ======
@@ -34,12 +34,11 @@ Publications
 
 Research Experience: Taking the Lead
 ======
-* A new equipment for measuring fracture toughness of soil with variable water contents (Nov. 2022 ~ present).
+* A closed-form equation for soil freezing curve. (July 2024 - Present).
 
-  * Granted national invention patent: <u>Zhang</u>, **Yang**, Chen. CN118090432B, 2024-06-28.
   * The paper is being prepared: **Yang**, Zhang, Chen, et. al. Measuring Fracture Toughness of Variably Saturated Clays. 
 
-* Fabric, stress, and modulus anisotropies of deep-buried soil (Jul. 2023 ~ Jul. 2024).
+* Structural evolution of ice crystals and soil pores during cooling: Scanning synchrotron small-and wide-angle X-ray scattering studies (Dec. 2023 - Present).
 
   * The paper is under review: **Yang**, Liu, <u>Zhang</u>, et al. Fabric, Stress, and Modulus Anisotropies in Sand during High-Stress Oedometer Test.
 
