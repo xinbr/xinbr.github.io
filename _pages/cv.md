@@ -31,56 +31,29 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+PS: **Bold** indicates me, and underline indicates my supervisor.
 
 Research Experience: Taking the Lead
 ======
 * A closed-form equation for soil freezing curve. (July 2024 - Present).
 
-  * The paper is being prepared: **Yang**, Zhang, Chen, et. al. Measuring Fracture Toughness of Variably Saturated Clays. 
+  
 
 * Structural evolution of ice crystals and soil pores during cooling: Scanning synchrotron small-and wide-angle X-ray scattering studies (Dec. 2023 - Present).
 
-  * The paper is under review: **Yang**, Liu, <u>Zhang</u>, et al. Fabric, Stress, and Modulus Anisotropies in Sand during High-Stress Oedometer Test.
+  
 
-* Regulating cracking mode in desiccating clay (May 2023 ~ Jun. 2024).
+* Ice crystal propagation in supercooled salty droplets (Sept. 2023 - Sept. 2024).
 
-  * The paper is under consideration: **Yang**, <u>Zhang</u>, Chen. Nucleation-percolation transition in clay desiccation cracking. 
+  
 
-* Investigating the role of substrate roughness on soil desiccation cracking (Jul. 2021 ~ Oct. 2022).
+* Heterogeneous ice nucleation of salt solution in porous media (Oct. 2022 - Oct. 2023).
 
-  * Published paper: **Yang**, <u>Zhang</u>, Gou, et al. Role of Substrate Roughness in Soil Desiccation Cracking [J]. _Canadian Geotechnical Journal_, 2024 (ja).
+  
 
-<div style="text-align: center;">
-  <img src="../images/SubstrateEffect2.jpg" alt="SubstrateEffect1" title="Sample" width="600" />
-</div>
-
-* Cementation effect on soil arching via discrete element method (Jan. 2021 ~ Jun. 2021).
-
-  * Soil arching is a typical stress redistribution phenomenon in soil subjected to unloading, which is crucial for designing underground structures and controlling ground deformation during construction. Yet, how the soil arching evolves in the cemented soil remains elusive. The discrete element method is utilized to simulate the trap door experiment, exploring the stress redistribution and fabric evolution in cemented sand upon unloading.
-
-<div style="text-align: center;">
-  <img src="../images/SoilArching.jpg" alt="SoilArching1" title="Soil Arching" width="500" />
-</div>
+* Regulating cascading freezing by water nanofilm thickness (Jan. 2021 ~ Jun. 2021).
 
 
-<div style="text-align: center;">
-  <video width="500" controls>
-    <source src="../images/SoilArching.mp4" type="video/mp4">
-  </video>
-</div>
-
-* Development of algorithm and system for risk and soil type identifications in autonomous excavators (Sep. 2020 ~ Dec. 2020).
-
-  * Developing an autonomous excavator is crucial for excavation in high-risk construction environments such as the deep ocean and exo-planets, yet it faces two challenges: 1) detecting excavation risk in real-time, e.g., detecting unexpected hard rock and existing underground constructions; and 2) detecting soil types during excavation in real-time for automatically adjusting excavation strategy. To solve these problems, this work developed a new real-time algorithm based on both time- and frequency- domain analyses of acceleration signals. Moreover, an excavation experiment was conducted to determine the appropriate position of acceleration sensors and the hyperparameters of the proposed algorithm.
-
-  * Granted national invention patent: <u>Zhang</u>, **Yang**, et al. CN113065388B, 2022-11-01.
-
-<div style="text-align: center;">
-  <img src="../images/AutoExcavator1.jpg" alt="AutoExcavator1" title="Risk identification" width="450" />
-  <img src="../images/AutoExcavator2.jpg" alt="AutoExcavator2" title="Soil type identification" width="450" />
-</div>
-
-PS: **Bold** indicates me, and underline indicates my supervisor.
 
 Research Experience: Participating in
 ======
