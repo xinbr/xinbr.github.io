@@ -39,7 +39,7 @@ Research Experience: Taking the Lead
 
   
 
-* Structural evolution of ice crystals and soil pores during cooling: Scanning synchrotron small-and wide-angle X-ray scattering studies (Dec. 2023 - Present).
+* Structural evolution of ice crystals in soils: Scanning synchrotron small-and wide-angle X-ray scattering studies (Dec. 2023 - Present).
 
   
 
