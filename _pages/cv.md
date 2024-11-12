@@ -31,7 +31,7 @@ Publications
 
 [2] Chao Zhang, **Xin Lin***, et al. Salts retard ice crystal growth in supercooled droplets during recalescence. Physical Review Fluid, under review
 
-[3] **Xin Lin**, Chao Zhang*, Ning Lu. A closed-form equation for soil freezing curve. To be submited to _Journal of Geotechnical and Geoenvironmental Engineering_, in preparation
+[3] **Xin Lin**, __Chao Zhang__, Ning Lu. A closed-form equation for soil freezing curve. To be submited to _Journal of Geotechnical and Geoenvironmental Engineering_, in preparation
 
 [4] Chao Zhang,**Xin Lin**. Structural evolution of ice crystals and soil pores during cooling: Scanning synchrotron small-and wide-angle X-ray scattering studies, in preparation.
 
