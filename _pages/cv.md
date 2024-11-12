@@ -21,7 +21,7 @@ Education and Qualifications
 
   Core-curriculum:  Fluid Mechanics, Soil Mechanics, Structural Mechanics, Advanced Mathematics, Theory of Elasticity, Mechanics of Materials.
 
-  GPA: 3.67/4.00.          Ranking: 3/51.
+  GPA: **3.67/4.00**.          Ranking: **3/51**.
 
 Research Interests
 ======
@@ -41,32 +41,30 @@ Publications
 
 Research Experience: 
 ======
-* A theoretical model for soil freezing curve. (Taking the Lead, May 2024 - Present).
+* **A theoretical model for soil freezing curve** (Taking the Lead, May 2024 - Present).
 
   <div style="text-align: center;">
   <img src="../images/SFC.PNG" alt="SubstrateEffect1" title="Sample" width="1000" />
  
   
 
-* Ice crystal propagation in supercooled salty droplets (Taking the Lead, Sept. 2023 - Sept. 2024).
+* **Ice crystal propagation in supercooled salty droplets** (Taking the Lead, Sept. 2023 - Sept. 2024).
 
   <div style="text-align: center;">
   <img src="../images/droplet.PNG" alt="SubstrateEffect1" title="Sample" width="1000" />
  
 
-* Heterogeneous ice nucleation of salt solution in porous media (Taking the Lead, Oct. 2022 - Oct. 2023).
+* **Heterogeneous ice nucleation of salt solution in porous media** (Taking the Lead, Oct. 2022 - Oct. 2023).
 
   <div style="text-align: center;">
   <img src="../images/pore.PNG" alt="SubstrateEffect1" title="Sample" width="1000" />
   
 
-* Structural evolution of ice crystals in soils: Scanning synchrotron WAXC/SAXS studies (Taking the Lead, Dec. 2023 - Present).
-  
-* Freezing-induced Stress and Flow in Porous Media (Participating in, Aug. 2023 ~ Present).
+* **Structural evolution of ice crystals in soils: Scanning synchrotron WAXC/SAXS studies** (Taking the Lead, Dec. 2023 - Present).
 
-* Infrared Spectroscopy for Detecting Water/water Structure and Content in Soil (Participating in, Jan. 2024 ~ Present).
+* **Infrared Spectroscopy for Detecting Water/water Structure and Content in Soil** (Participating in, Jan. 2024 ~ Present).
 
-* Regulating cascading freezing by water nanofilm thickness (Participating in, Jun. 2021 - Feb. 2023)
+* **Regulating cascading freezing by water nanofilm thickness** (Participating in, Jun. 2021 - Feb. 2023)
 
 
 
