@@ -11,13 +11,15 @@ redirect_from:
 
 Education and Qualifications
 ======
-* **Master in Civil Engineering ([ARWU Top 15 Academic Subjects Worldwide](https://www.shanghairanking.com/rankings/gras/2023/RS0211)), Hunan University**, Sep. 2022 - Present
+* **Master in Civil Engineering ([ARWU Top 15 Academic Subjects Worldwide](https://www.shanghairanking.com/rankings/gras/2023/RS0211)), Hunan University**,
+   Sep. 2022 - Present
 
   Core-curriculum: Advanced Soil Mechanics, Dynamics of Structure, Rock and Soil Dynamics.
   
-* **B.S. in Civil Engineering ([ARWU Top 15 Academic Subjects Worldwide](https://www.shanghairanking.com/rankings/gras/2023/RS0211)), Hunan University**, Sep. 2018 - Jun. 2022
+* **B.S. in Civil Engineering ([ARWU Top 15 Academic Subjects Worldwide](https://www.shanghairanking.com/rankings/gras/2023/RS0211)), Hunan University**,
+  Sep. 2018 - Jun. 2022
 
-  Core curriculum:  Fluid Mechanics, Soil Mechanics, Structural Mechanics, Advanced Mathematics, Theory of Elasticity, Mechanics of Materials.
+  Core-curriculum:  Fluid Mechanics, Soil Mechanics, Structural Mechanics, Advanced Mathematics, Theory of Elasticity, Mechanics of Materials.
 
   GPA: 3.67/4.00.          Ranking: 3/51.
 
@@ -27,7 +29,7 @@ Water Phase Transitions and Equilibriums in Porous Media; Freezing Behavior of W
 
 Publications
 ======
-[1] **Lin, X.**, Zhang, C.*, Hu, S. Chen, R. Heterogeneous ice nucleation of salt solution in porous media.(https://doi.org/10.1063/5.0190862) _The Journal of Chemical Physics_, 2024. DOI:10.1063/5.0190862
+[1] **Lin, X.**, Zhang, C.*, Hu, S. Chen, R. ["Heterogeneous ice nucleation of salt solution in porous media"](https://doi.org/10.1063/5.0190862) _The Journal of Chemical Physics_, 2024. DOI:10.1063/5.0190862
 
 [2] Zhang, C.* **Lin X**, Zhao, N, Hu, S. Salts retard ice crystal growth in supercooled droplets during recalescence. _Physical Review Fluid_, under review
 
