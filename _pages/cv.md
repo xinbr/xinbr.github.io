@@ -27,7 +27,13 @@ Water Phase Transitions and Equilibriums in Porous Media; Freezing Behavior of W
 
 Publications
 ======
-[1] **Yang**, <u>Zhang</u>, Gou, et al. Role of Substrate Roughness in Soil Desiccation Cracking [J]. _Canadian Geotechnical Journal_, 2024 (ja).
+[1] **Xin Lin**, Chao Zhang*, et al. Heterogeneous ice nucleation of salt solution in porous media. _The Journal of Chemical Physics_, 2024. DOI:10.1063/5.0190862
+
+[2] Chao Zhang, **Xin Lin***, et al. Salts retard ice crystal growth in supercooled droplets during recalescence. Physical Review Fluid, under review
+
+[3] **Xin Lin**, Chao Zhang*, Ning Lu. A closed-form equation for soil freezing curve. To be submited to _Journal of Geotechnical and Geoenvironmental Engineering_, in preparation
+
+[4] Chao Zhang,**Xin Lin**. Structural evolution of ice crystals and soil pores during cooling: Scanning synchrotron small-and wide-angle X-ray scattering studies, in preparation.
 
 PS: **Bold** indicates me, and underline indicates my supervisor.
 
