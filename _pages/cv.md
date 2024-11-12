@@ -36,8 +36,10 @@ PS: **Bold** indicates me, and underline indicates my supervisor.
 Research Experience: Taking the Lead
 ======
 * A closed-form equation for soil freezing curve. (May 2024 - Present).
-(https://github.com/xinbr/xinbr.github.io/edit/master/images/SFC.PNG)
-  
+
+  <div style="text-align: center;">
+  <img src="../images/SFC.PNG" alt="SubstrateEffect1" title="Sample" width="600" />
+</div>
 
 * Structural evolution of ice crystals in soils: Scanning synchrotron WAXC/SAXS studies (Dec. 2023 - Present).
 
