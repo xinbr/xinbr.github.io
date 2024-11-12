@@ -27,15 +27,15 @@ Water Phase Transitions and Equilibriums in Porous Media; Freezing Behavior of W
 
 Publications
 ======
-[1] **Xin Lin**, Chao Zhang*, et al. Heterogeneous ice nucleation of salt solution in porous media. _The Journal of Chemical Physics_, 2024. DOI:10.1063/5.0190862
+[1] **Xin Lin**, Chao Zhang*,Shao jiehu, Renpeng Chen. Heterogeneous ice nucleation of salt solution in porous media. _The Journal of Chemical Physics_, 2024. DOI:10.1063/5.0190862
 
-[2] Chao Zhang, **Xin Lin***, et al. Salts retard ice crystal growth in supercooled droplets during recalescence. Physical Review Fluid, under review
+[2] Chao Zhang, NingNing Zhao, Shao jiehu, **Xin Lin***, et al. Salts retard ice crystal growth in supercooled droplets during recalescence. _Physical Review Fluid_, under review
 
-[3] **Xin Lin**, __Chao Zhang__, Ning Lu. A closed-form equation for soil freezing curve. To be submited to _Journal of Geotechnical and Geoenvironmental Engineering_, in preparation
+[3] **Xin Lin**, Chao Zhang*, Ning Lu. A closed-form equation for soil freezing curve. To be submited to _Journal of Geotechnical and Geoenvironmental Engineering_, in preparation
 
-[4] Chao Zhang,**Xin Lin**. Structural evolution of ice crystals and soil pores during cooling: Scanning synchrotron small-and wide-angle X-ray scattering studies, in preparation.
+[4] **Xin Lin**,Chao Zhang, et al. Structural evolution of ice crystals and soil pores during cooling: Scanning synchrotron small-and wide-angle X-ray scattering studies, in preparation.
 
-PS: **Bold** indicates me, and underline indicates my supervisor.
+PS: **Bold** indicates me, and * indicates correspongding author.
 
 Research Experience: Taking the Lead
 ======
