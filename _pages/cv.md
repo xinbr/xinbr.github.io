@@ -72,15 +72,15 @@ Research Experience:
 
 Selected Honors and Awards
 ======
-Outstanding Undergraduate Graduates of Hunan University, Hunan University, May 2022.
+* Outstanding Undergraduate Graduates of Hunan University, Hunan University, May 2022.
 
-Chinese National Inspirational Scholarship, Ministry of Education of the People’s Republic of China, December 2020, 2021
+* Chinese National Inspirational Scholarship, Ministry of Education of the People’s Republic of China, December 2020, 2021
 
-First Class Scholarship of Hunan University, Hunan University, November 2019, 2022, 2023, 2024
+* First Class Scholarship of Hunan University, Hunan University, November 2019, 2022, 2023, 2024
 
-Haofen Scholarship of Hunan University, Hunan University, October 2020,2021
+* Haofen Scholarship of Hunan University, Hunan University, October 2020,2021
 
-Merit Student of Hunan University, Hunan University, November 2019, 2020.
+* Merit Student of Hunan University, Hunan University, November 2019, 2020.
 
 
 Skills
