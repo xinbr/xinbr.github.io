@@ -13,7 +13,7 @@ redirect_from:
   
   <div style="text-align: center;">
   <img src="../images/MudCrack.png" alt="Mud crack pattern" title="Desiccation cracks in clay" width="298" />
-  <img src="../images/DCprocess.gif" alt="Cracking process via DIC" title="Desiccation cracking process via DIC" width="420" />
+  <img src="../images/1.gif" alt="Cracking process via DIC" title="Desiccation cracking process via DIC" width="420" />
 </div>
 
 * If you are interested in my research, please get in touch with me via email (xin_lin@hnu.edu.cn)
