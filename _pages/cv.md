@@ -67,13 +67,7 @@ Research Experience: Participating in
 Skills
 ======
 * Knowledge
-  * Nucleation theory
-  * Crystal growth theory
-  * Water potential theory
-  * Soil-water interaction mechanism
-  * Unsaturated soil mechanics
-    
-* Experiment skill
+  * Nucleation theory; Crystal growth theory; Water potential theory; Soil-water interaction mechanism; Unsaturated soil mechanics; Experiment skill
   * Cryostage for freezing experiments
   * High-speed photography
   * Wide-angle and small-angle X-ray scattering (WAXS/SAXS) tests
