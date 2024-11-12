@@ -68,7 +68,7 @@ Research Experience:
   
   <div style="text-align: center;">
   <img src="../images/xray.PNG" alt="SubstrateEffect1" title="Sample" width="1000" />
-
+  
 
 Selected Honors and Awards
 ======
