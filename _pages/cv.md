@@ -65,7 +65,9 @@ Research Experience:
 * **Infrared Spectroscopy for Detecting Water/water Structure and Content in Soil** (Participating in, Jan. 2024 ~ Present).
 
 * **Regulating cascading freezing by water nanofilm thickness** (Participating in, Jun. 2021 - Feb. 2023)
-
+  
+  <div style="text-align: center;">
+  <img src="../images/xray.PNG" alt="SubstrateEffect1" title="Sample" width="1000" />
 
 
 Selected Honors and Awards
