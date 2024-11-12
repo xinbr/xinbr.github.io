@@ -27,7 +27,7 @@ Water Phase Transitions and Equilibriums in Porous Media; Freezing Behavior of W
 
 Publications
 ======
-[1] **Lin, X.**, Zhang, C.*, Hu, S. Chen, R. Heterogeneous ice nucleation of salt solution in porous media. _The Journal of Chemical Physics_, 2024. DOI:10.1063/5.0190862
+[1] **Lin, X.**, Zhang, C.*, Hu, S. Chen, R. Heterogeneous ice nucleation of salt solution in porous media.(https://doi.org/10.1063/5.0190862) _The Journal of Chemical Physics_, 2024. DOI:10.1063/5.0190862
 
 [2] Zhang, C.* **Lin X**, Zhao, N, Hu, S. Salts retard ice crystal growth in supercooled droplets during recalescence. _Physical Review Fluid_, under review
 
@@ -68,22 +68,6 @@ Research Experience:
 
 
 
-Skills
-======
-* Knowledge
-  * Nucleation theory; Crystal growth theory; Water potential theory; Soil-water interaction mechanism; Unsaturated soil mechanics.
-* Experiment skill
-  * Cryostage for freezing experiments; High-speed photography; Wide-angle and small-angle X-ray scattering (WAXS/SAXS) tests; Infrared spectroscopy; Differential 
-    scanning calorimetry (DSC); Microfluidic chips
-* Software & Tools
-  * Matlab; Comsol; PDFgetX3; Fit2D; Python
-
-Talks
-======
-
-* **InterPore 2024**, Qingdao, China, May 2024.
-**Poster**: Heterogeneous ice nucleation of salt solution in porous media. 
-
 
 
 Selected Honors and Awards
@@ -97,6 +81,17 @@ First Class Scholarship of Hunan University, Hunan University, November 2019, 20
 Haofen Scholarship of Hunan University, Hunan University, October 2020,2021
 
 Merit Student of Hunan University, Hunan University, November 2019, 2020.
+
+
+Skills
+======
+* Knowledge
+  * Nucleation theory; Crystal growth theory; Water potential theory; Soil-water interaction mechanism; Unsaturated soil mechanics.
+* Experiment skills
+  * Cryostage for freezing experiments; High-speed photography; Wide-angle and small-angle X-ray scattering (WAXS/SAXS) tests; Infrared spectroscopy; Differential 
+    scanning calorimetry (DSC); Microfluidic chips
+* Software & Tools
+  * Matlab; Comsol; PDFgetX3; Fit2D; Python
 
 
   
