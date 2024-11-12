@@ -30,7 +30,7 @@ News
 
 <div class="gallery-container">
   <button onclick="prevImage()" class="gallery-button gallery-button-prev"></button>
-  <img id="gallery-image" src="../images/Interpore1.jpg" alt="Photo 1" style="max-width: 60%; height: auto;" />
+  <img id="gallery-image" src="../images/1.jpg" alt="Photo 1" style="max-width: 60%; height: auto;" />
   <button onclick="nextImage()" class="gallery-button gallery-button-next"></button>
 </div>
 
@@ -61,22 +61,27 @@ News
   }
 
   .gallery-button-prev {
-    background: transparent url('../images/LeftArrow.png') no-repeat center;
+    background: transparent url('../images/2.jpg') no-repeat center;
     background-size: 20px 20px;
   }
 
   .gallery-button-next {
-    background: transparent url('../images/RightArrow.png') no-repeat center;
+    background: transparent url('../images/3.jpg') no-repeat center;
+    background-size: 20px 20px;
+  }
+
+    .gallery-button-next {
+    background: transparent url('../images/4.jpg') no-repeat center;
     background-size: 20px 20px;
   }
 </style>
 
 <script>
   const images = [
-    "../images/Interpore1.jpg",
-    "../images/Interpore2.jpg",
-    "../images/Interpore3.jpg",
-    "../images/Interface.png"
+    "../images/1.jpg",
+    "../images/2.jpg",
+    "../images/3.jpg",
+    "../images/4.jpg"
   ];
 
   let currentIndex = 0;
@@ -97,3 +102,4 @@ News
     showImage(currentIndex);
   }
 </script>
+
