@@ -61,12 +61,12 @@ News
   }
 
   .gallery-button-prev {
-    background: transparent url('../images/2.jpg') no-repeat center;
+    background: transparent url('../images/3.jpg') no-repeat center;
     background-size: 20px 20px;
   }
 
   .gallery-button-next {
-    background: transparent url('../images/3.jpg') no-repeat center;
+    background: transparent url('../images/4.jpg') no-repeat center;
     background-size: 20px 20px;
   }
 
@@ -79,7 +79,6 @@ News
 <script>
   const images = [
     "../images/1.jpg",
-    "../images/2.jpg",
     "../images/3.jpg",
     "../images/4.jpg"
   ];
