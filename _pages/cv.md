@@ -66,6 +66,8 @@ Research Experience: Participating in
 * Infrared Spectroscopy for Detecting Water Structure and Content in Soil (Jan. 2024 ~ Present).
 
 * Nanopore evolution in clay during drying via small-angle neutron scattering and small-angle X-ray scattering (Jul. 2023 ~ Present).
+* Regulating cascading freezing by water nanofilm thickness (Jun. 2021 - Feb. 2023).
+
 
 Skills
 ======
