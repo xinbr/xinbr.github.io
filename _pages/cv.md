@@ -47,11 +47,15 @@ Research Experience: Taking the Lead
 
 * Ice crystal propagation in supercooled salty droplets (Sept. 2023 - Sept. 2024).
 
-  
+  <div style="text-align: center;">
+  <img src="../images/droplet.PNG" alt="SubstrateEffect1" title="Sample" width="600" />
+</div>
 
 * Heterogeneous ice nucleation of salt solution in porous media (Oct. 2022 - Oct. 2023).
 
-  
+  <div style="text-align: center;">
+  <img src="../images/pore.PNG" alt="SubstrateEffect1" title="Sample" width="600" />
+</div>
 
 * Regulating cascading freezing by water nanofilm thickness (Jan. 2021 ~ Jun. 2021).
 
