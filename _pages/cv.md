@@ -67,7 +67,7 @@ Research Experience:
 * **Regulating cascading freezing by water nanofilm thickness** (Participating in, Jun. 2021 - Feb. 2023)
   
   <div style="text-align: center;">
-  <img src="../images/xray.PNG" alt="SubstrateEffect1" title="Sample" width="1000" />
+  <img src="../images/xray.png" alt="SubstrateEffect1" title="Sample" width="1000" />
   
 
 Selected Honors and Awards
