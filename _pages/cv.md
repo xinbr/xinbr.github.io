@@ -27,9 +27,7 @@ Water Phase Transitions and Equilibriums in Porous Media; Freezing Behavior of W
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+[1] **Yang**, <u>Zhang</u>, Gou, et al. Role of Substrate Roughness in Soil Desiccation Cracking [J]. _Canadian Geotechnical Journal_, 2024 (ja).
 
 PS: **Bold** indicates me, and underline indicates my supervisor.
 
