@@ -35,27 +35,27 @@ PS: **Bold** indicates me, and underline indicates my supervisor.
 
 Research Experience: Taking the Lead
 ======
-* A closed-form equation for soil freezing curve. (May 2024 - Present).
+* A theoretical model for soil freezing curve. (May 2024 - Present).
 
   <div style="text-align: center;">
   <img src="../images/SFC.PNG" alt="SubstrateEffect1" title="Sample" width="1000" />
-  </div>
+ 
   
 
 * Ice crystal propagation in supercooled salty droplets (Sept. 2023 - Sept. 2024).
 
   <div style="text-align: center;">
   <img src="../images/droplet.PNG" alt="SubstrateEffect1" title="Sample" width="1000" />
-  </div>
+ 
 
 * Heterogeneous ice nucleation of salt solution in porous media (Oct. 2022 - Oct. 2023).
 
   <div style="text-align: center;">
   <img src="../images/pore.PNG" alt="SubstrateEffect1" title="Sample" width="1000" />
-  </div>
+  
 
 * Structural evolution of ice crystals in soils: Scanning synchrotron WAXC/SAXS studies (Dec. 2023 - Present).
-
+* Regulating cascading freezing by water nanofilm thickness (Jun. 2021 - Feb. 2023)
 
 
 Research Experience: Participating in
