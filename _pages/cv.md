@@ -37,9 +37,9 @@ Publications
 
 * *Supervisor.
 
-Research Experience: Taking the Lead
+Research Experience: 
 ======
-* A theoretical model for soil freezing curve. (May 2024 - Present).
+* A theoretical model for soil freezing curve. (Taking the Lead, May 2024 - Present).
 
   <div style="text-align: center;">
   <img src="../images/SFC.PNG" alt="SubstrateEffect1" title="Sample" width="1000" />
