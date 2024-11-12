@@ -38,21 +38,21 @@ Research Experience: Taking the Lead
 * A closed-form equation for soil freezing curve. (May 2024 - Present).
 
   <div style="text-align: center;">
-  <img src="../images/SFC.PNG" alt="SubstrateEffect1" title="Sample" width="600" />
-</div>
+  <img src="../images/SFC.PNG" alt="SubstrateEffect1" title="Sample" width="1000" />
+  </div>
   
 
 * Ice crystal propagation in supercooled salty droplets (Sept. 2023 - Sept. 2024).
 
   <div style="text-align: center;">
-  <img src="../images/droplet.PNG" alt="SubstrateEffect1" title="Sample" width="600" />
-</div>
+  <img src="../images/droplet.PNG" alt="SubstrateEffect1" title="Sample" width="1000" />
+  </div>
 
 * Heterogeneous ice nucleation of salt solution in porous media (Oct. 2022 - Oct. 2023).
 
   <div style="text-align: center;">
-  <img src="../images/pore.PNG" alt="SubstrateEffect1" title="Sample" width="600" />
-</div>
+  <img src="../images/pore.PNG" alt="SubstrateEffect1" title="Sample" width="1000" />
+  </div>
 
 * Structural evolution of ice crystals in soils: Scanning synchrotron WAXC/SAXS studies (Dec. 2023 - Present).
 
@@ -61,7 +61,7 @@ Research Experience: Taking the Lead
 Research Experience: Participating in
 ======
 
-* Freezing-induced stress and flow in porous media (Aug. 2023 ~ Present).
+* Freezing-induced Stress and Flow in Porous Media (Aug. 2023 ~ Present).
 
 * Infrared Spectroscopy for Detecting Water Structure and Content in Soil (Jan. 2024 ~ Present).
 
@@ -75,9 +75,7 @@ Skills
   * Cryostage for freezing experiments; High-speed photography; Wide-angle and small-angle X-ray scattering (WAXS/SAXS) tests; Infrared spectroscopy; Differential 
     scanning calorimetry (DSC); Microfluidic chips
 * Software & Tools
-  * Matlab
-  * COMSOL
-  * Python
+  * Matlab; Comsol; PDFgetX3; Fit2D; Python
 
 Talks
 ======
