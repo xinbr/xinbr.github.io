@@ -46,31 +46,26 @@ Research Experience:
  
   
 
-* Ice crystal propagation in supercooled salty droplets (Sept. 2023 - Sept. 2024).
+* Ice crystal propagation in supercooled salty droplets (Taking the Lead, Sept. 2023 - Sept. 2024).
 
   <div style="text-align: center;">
   <img src="../images/droplet.PNG" alt="SubstrateEffect1" title="Sample" width="1000" />
  
 
-* Heterogeneous ice nucleation of salt solution in porous media (Oct. 2022 - Oct. 2023).
+* Heterogeneous ice nucleation of salt solution in porous media (Taking the Lead, Oct. 2022 - Oct. 2023).
 
   <div style="text-align: center;">
   <img src="../images/pore.PNG" alt="SubstrateEffect1" title="Sample" width="1000" />
   
 
-* Structural evolution of ice crystals in soils: Scanning synchrotron WAXC/SAXS studies (Dec. 2023 - Present).
-* Regulating cascading freezing by water nanofilm thickness (Jun. 2021 - Feb. 2023)
+* Structural evolution of ice crystals in soils: Scanning synchrotron WAXC/SAXS studies (Taking the Lead, Dec. 2023 - Present).
+* 
+* Regulating cascading freezing by water nanofilm thickness (Participating in, Jun. 2021 - Feb. 2023)
+* 
+* Freezing-induced Stress and Flow in Porous Media (Participating in, Aug. 2023 ~ Present).
 
+* Infrared Spectroscopy for Detecting Water/water Structure and Content in Soil (Participating in, Jan. 2024 ~ Present).
 
-Research Experience: Participating in
-======
-
-* Freezing-induced Stress and Flow in Porous Media (Aug. 2023 ~ Present).
-
-* Infrared Spectroscopy for Detecting Water Structure and Content in Soil (Jan. 2024 ~ Present).
-
-* Nanopore evolution in clay during drying via small-angle neutron scattering and small-angle X-ray scattering (Jul. 2023 ~ Present).
-* Regulating cascading freezing by water nanofilm thickness (Jun. 2021 - Feb. 2023).
 
 
 Skills
