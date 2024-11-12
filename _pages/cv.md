@@ -59,9 +59,9 @@ Research Experience:
   
 
 * Structural evolution of ice crystals in soils: Scanning synchrotron WAXC/SAXS studies (Taking the Lead, Dec. 2023 - Present).
-* 
+  
 * Regulating cascading freezing by water nanofilm thickness (Participating in, Jun. 2021 - Feb. 2023)
-* 
+  
 * Freezing-induced Stress and Flow in Porous Media (Participating in, Aug. 2023 ~ Present).
 
 * Infrared Spectroscopy for Detecting Water/water Structure and Content in Soil (Participating in, Jan. 2024 ~ Present).
