@@ -12,7 +12,7 @@ redirect_from:
 * My passion lies in comprehending the diverse and intriguing **phase equilibrium and transition processes of water** in porous media, as well as water droplets, and unraveling their implications on the behaviour of frozen porous materials. I am try to integrate cutting-edge insights from **surface and interfacial science**, **nucleation theory**, and **soil-water interaction theory**, while utilizing advanced **microscopic experiments** (e.g., X-ray wide-angle/small-angle scattering, infrared spectroscopy, high-speed photography, etc.) to delve into the physics of pore water freezing, ice propagation dynamics, unfrozen water behavior in frozen soil, and the fundamental mechanisms at play. 
 * Within Prof. Zhang's diverse and engaging research group, I have had the invaluable opportunity to deeply participant in various intriguing research topics with my group menbers, such as vapor sorption and capillary condensation in soil, desiccation cracking in porous media, isotope fractionation, and flow in porous media. 
 
-* If you are interested in my research, please get in touch with me via email (xin_lin@hnu.edu.cn) or [WeChat](../images/5.png). 
+* If you are interested in my research, please get in touch with me via email (xin_lin@hnu.edu.cn). 
 
 News
 ======
