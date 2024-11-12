@@ -35,7 +35,7 @@ Publications
 
 [4] **Lin X**, Zhang, C.* Structural evolution of ice crystals and soil pores during cooling: Scanning synchrotron small-and wide-angle X-ray scattering studies, in preparation.
 
-* Supervisor.
+* *Supervisor.
 
 Research Experience: Taking the Lead
 ======
