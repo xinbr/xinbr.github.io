@@ -40,9 +40,6 @@ Research Experience: Taking the Lead
   <div style="text-align: center;">
   <img src="../images/SFC.PNG" alt="SubstrateEffect1" title="Sample" width="600" />
 </div>
-
-* Structural evolution of ice crystals in soils: Scanning synchrotron WAXC/SAXS studies (Dec. 2023 - Present).
-
   
 
 * Ice crystal propagation in supercooled salty droplets (Sept. 2023 - Sept. 2024).
@@ -57,7 +54,7 @@ Research Experience: Taking the Lead
   <img src="../images/pore.PNG" alt="SubstrateEffect1" title="Sample" width="600" />
 </div>
 
-* Regulating cascading freezing by water nanofilm thickness (Jan. 2021 ~ Jun. 2021).
+* Structural evolution of ice crystals in soils: Scanning synchrotron WAXC/SAXS studies (Dec. 2023 - Present).
 
 
 
