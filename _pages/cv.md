@@ -30,16 +30,15 @@ Water Phase Transitions and Equilibriums in Porous Media; Freezing Behavior of W
 <div style="display: flex; justify-content: center;">
     <img src="../images/CuSO4.gif" title="Ice crystal growth in salt solutions" style="object-fit: cover; height: 150px; margin: 10px;">
     <img src="../images/5.gif" title="Heterogeneous nucleation in capillaries" style="object-fit: cover; height: 150px; margin: 10px;">
-    <img src="../images/two.gif" title="Ice propagation across droplets" style="object-fit: cover; height: 150px; margin: 10px;">
-</div>
+    </div>
 
 Publications
 ======
 [1] **Lin, X.**, Zhang, C.*, Hu, S. Chen, R. ["Heterogeneous ice nucleation of salt solution in porous media"](https://doi.org/10.1063/5.0190862) _The Journal of Chemical Physics_, 2024. DOI:10.1063/5.0190862
 
-[2] Zhang, C.* **Lin X**, Zhao, N, Hu, S. Salts retard ice crystal growth in supercooled droplets during recalescence. _Physical Review Fluid_, under revision.
+[2] Zhang, C.* **Lin X**, Zhao, N, Hu, S. Salts retard ice crystal growth in supercooled droplets during recalescence. under revision.
 
-[3] **Lin X**, Zhang, C.*, Lu N. A closed-form equation for soil freezing curve. To be submited to _Journal of Geotechnical and Geoenvironmental Engineering_, in preparation
+[3] **Lin X**, Zhang, C.*, Lu N. A closed-form equation for soil freezing curve. in preparation
 
 [4] **Lin X**, Zhang, C.* Structural evolution of ice crystals and soil pores during cooling: Scanning synchrotron small-and wide-angle X-ray scattering studies, in preparation.
 
