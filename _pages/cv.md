@@ -84,9 +84,8 @@ Research Experience:
 * **Infrared Spectroscopy for Detecting Water/water Structure and Content in Soil** (Participating in, Jan. 2024 ~ Present).
 
 * **Regulating cascading freezing by water nanofilm thickness** (Participating in, Jun. 2021 - Feb. 2023)
-   * **Cascading freezing:* *We reports a novel mechanism underlying the peculiar cascading freezing of multiple supercooled droplets on surfaces. The water nanofilm acts as a freezing transmitter, facilitating ice crystal
-propagation across independent water droplets
-  
+   * **Cascading freezing:** We reports a novel mechanism underlying the peculiar cascading freezing of multiple supercooled droplets on surfaces. The water nanofilm acts as a freezing transmitter, facilitating ice crystal propagation across independent water droplets.
+   * **Ice crystal growth:** A crystal growth theory has been employed to explain crystal growth within the water nanofilm, indicating a higher effective viscosity due to the substrate-water interaction.
   <div style="text-align: center;">
   <img src="../images/xray.png" alt="SubstrateEffect1" title="Sample" width="1000" />
   
