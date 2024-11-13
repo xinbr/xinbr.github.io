@@ -47,7 +47,9 @@ Publications
 
 Research Experience: 
 ======
-* **A theoretical model for soil freezing curve** (Taking the Lead, May 2024 - Present).
+* **A theoretical model for soil freezing curve** (Taking the Lead, May 2024 - Present):
+  * We have proposed a new physical model to determine the fundamental constitutive relationship between unfrozen water content and temperature under subzero 
+    conditions, grounded in the thermodynamics of phase equilibrium and soil water interaction mechanisms.
 
   <div style="text-align: center;">
   <img src="../images/SFC.PNG" alt="SubstrateEffect1" title="Sample" width="1000" />
