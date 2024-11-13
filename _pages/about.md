@@ -30,7 +30,7 @@ News
 
 <div class="gallery-container">
   <button onclick="prevImage()" class="gallery-button gallery-button-prev"></button>
-  <img id="gallery-image" src="../images/1.jpg" alt="Photo 1" style="max-width: 60%; height: auto;" />
+  <img id="gallery-image" src="../images/1.jpg" alt="Photo 1" style="max-width: 80%; height: auto;" />
   <button onclick="nextImage()" class="gallery-button gallery-button-next"></button>
 </div>
 
