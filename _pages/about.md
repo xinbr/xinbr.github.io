@@ -13,9 +13,9 @@ redirect_from:
   
 
 <div style="display: flex; justify-content: center;">
-    <img src="../images/CuSO.gif" title="Desiccation cracking process via DIC" style="object-fit: cover; height: 300px; margin: 10px;">
-    <img src="../images/droplets.gif" title="Desiccation cracking process via DIC" style="object-fit: cover; height: 300px; margin: 10px;">
-    <img src="../images/2.gif" title="Desiccation cracking process via DIC" style="object-fit: cover; height: 300px; margin: 10px;">
+    <img src="../images/CuSO.gif" title="Desiccation cracking process via DIC" style="object-fit: cover; height: 200px; margin: 10px;">
+    <img src="../images/droplets.gif" title="Desiccation cracking process via DIC" style="object-fit: cover; height: 200px; margin: 10px;">
+    <img src="../images/2.gif" title="Desiccation cracking process via DIC" style="object-fit: cover; height: 200px; margin: 10px;">
 </div>
   
 
