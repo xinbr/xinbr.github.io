@@ -16,6 +16,13 @@ redirect_from:
   <img src="../images/droplets.gif" title="Desiccation cracking process via DIC" width="420" hight="420"/>
   <img src="../images/2.gif" title="Desiccation cracking process via DIC" width="420" hight="420"/>
 
+<div style="display: flex; justify-content: center;">
+    <img src="../images/CuSO.gif" title="Ice crystal growth in solutions" width="420" height="420" style="margin: 5px;">
+    <img src="../images/droplets.gif" title="Desiccation cracking process via DIC" width="420" height="420" style="margin: 5px;">
+    <img src="../images/2.gif" title="Heterogenous nucleation of pore water" width="420" height="420" style="margin: 5px;">
+</div>
+  
+
 * If you are interested in my research, please get in touch with me via email (xin_lin@hnu.edu.cn)
   
 
