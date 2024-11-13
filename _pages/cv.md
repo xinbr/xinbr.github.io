@@ -27,6 +27,12 @@ Research Interests
 ======
 Water Phase Transitions and Equilibriums in Porous Media; Freezing Behavior of Water Droplets; Unsaturated Soils Mechanics. 
 
+<div style="display: flex; justify-content: center;">
+    <img src="../images/CuSO4.gif" title="Ice crystal growth in salt solutions" style="object-fit: cover; height: 150px; margin: 10px;">
+    <img src="../images/5.gif" title="Heterogeneous nucleation in capillaries" style="object-fit: cover; height: 150px; margin: 10px;">
+    <img src="../images/two.gif" title="Ice propagation across droplets" style="object-fit: cover; height: 150px; margin: 10px;">
+</div>
+
 Publications
 ======
 [1] **Lin, X.**, Zhang, C.*, Hu, S. Chen, R. ["Heterogeneous ice nucleation of salt solution in porous media"](https://doi.org/10.1063/5.0190862) _The Journal of Chemical Physics_, 2024. DOI:10.1063/5.0190862
