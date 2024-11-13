@@ -13,6 +13,8 @@ redirect_from:
   
   <div style="text-align: center;">
   <img src="../images/1.gif" alt="Cracking process via DIC" title="Desiccation cracking process via DIC" width="420" />
+  <img src="../images/CuSO4.gif" alt="Cracking process via DIC" title="Desiccation cracking process via DIC" width="420" />
+  <img src="../images/droplets.gif" alt="Cracking process via DIC" title="Desiccation cracking process via DIC" width="420" />
 
 * If you are interested in my research, please get in touch with me via email (xin_lin@hnu.edu.cn)
   
