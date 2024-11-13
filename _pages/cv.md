@@ -36,13 +36,12 @@ Publications
 ======
 [1] **Lin, X.**, Zhang, C.*, Hu, S. Chen, R. ["Heterogeneous ice nucleation of salt solution in porous media"](https://doi.org/10.1063/5.0190862) _The Journal of Chemical Physics_, 2024. DOI:10.1063/5.0190862
 
-[2] Zhang, C.* **Lin X**, Zhao, N, Hu, S. Salts retard ice crystal growth in supercooled droplets during recalescence. under revision.
+[2]  A paper on Salts droplets freezing. under revision.
 
-[3] **Lin X**, Zhang, C.*, Lu N. A closed-form equation for soil freezing curve. in preparation
+[3]  A paper for soil freezing curve equation. in preparation
 
-[4] **Lin X**, Zhang, C.* Structural evolution of ice crystals and soil pores during cooling: Scanning synchrotron small-and wide-angle X-ray scattering studies, in preparation.
+[4] A paper on structural evolution of ice crystals and soil pores during cooling. in preparation.
 
-* *Supervisor.
 
 Research Experience: 
 ======
