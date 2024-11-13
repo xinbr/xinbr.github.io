@@ -58,6 +58,10 @@ Research Experience:
   
 
 * **Ice crystal propagation in supercooled salty droplets** (Taking the Lead, Sept. 2023 - Sept. 2024).
+  * **Reduction in ice crystal growth:** Salts dissolved in water droplets remarkably retard the ice crystal growth during recalescence, which can be 98.8% for a 1 
+    mol/L magnesium chloride solution compared to pure water, and varies with both salt concentrations and types.
+  * **Physical mechanisms:** The retardation is attributed to the reduction in water diffusivity caused by the presence of salts, and we have proposed a new 
+    diffusivity equation to capture this effect.
 
   <div style="text-align: center;">
   <img src="../images/droplet.PNG" alt="SubstrateEffect1" title="Sample" width="1000" />
