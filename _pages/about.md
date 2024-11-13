@@ -15,7 +15,7 @@ redirect_from:
 <div style="display: flex; justify-content: center;">
     <img src="../images/CuSO4.gif" title="Ice crystal growth in salt solutions" style="object-fit: cover; height: 150px; margin: 10px;">
     <img src="../images/5.gif" title="Heterogeneous nucleation in capillaries" style="object-fit: cover; height: 150px; margin: 10px;">
-    <img src="../images/droplets.gif" title="Ice propagation across droplets" style="object-fit: cover; height: 150px; margin: 10px;">
+    <img src="../images/two.gif" title="Ice propagation across droplets" style="object-fit: cover; height: 150px; margin: 10px;">
 </div>
   
 
