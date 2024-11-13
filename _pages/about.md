@@ -11,15 +11,7 @@ redirect_from:
 
 * My passion lies in comprehending the diverse and intriguing **phase equilibrium and transition processes of water** in porous media, as well as water droplets, and unraveling their implications on the behaviour of frozen porous materials. I am try to integrate cutting-edge insights from **surface and interfacial science**, **nucleation theory**, and **soil-water interaction theory**, while utilizing advanced **microscopic experiments** (e.g., X-ray wide-angle/small-angle scattering, infrared spectroscopy, high-speed photography, etc.) to delve into the physics of pore water freezing, ice propagation dynamics, unfrozen water behavior in frozen soil, and the fundamental mechanisms at play.
   
-
-<div style="display: flex; justify-content: center;">
-    <img src="../images/CuSO4.gif" title="Ice crystal growth in salt solutions" style="object-fit: cover; height: 150px; margin: 10px;">
-    <img src="../images/5.gif" title="Heterogeneous nucleation in capillaries" style="object-fit: cover; height: 150px; margin: 10px;">
-    <img src="../images/two.gif" title="Ice propagation across droplets" style="object-fit: cover; height: 150px; margin: 10px;">
-</div>
-  
-
-* If you are interested in my research, please get in touch with me via email (xin_lin@hnu.edu.cn)
+* If you are interested in my research, please feel free to contact me via email (xin_lin@hnu.edu.cn)
   
 
 News
