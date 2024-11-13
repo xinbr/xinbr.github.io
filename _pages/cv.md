@@ -68,12 +68,21 @@ Research Experience:
  
 
 * **Heterogeneous ice nucleation of salt solution in porous media** (Taking the Lead, Oct. 2022 - Oct. 2023).
+   * **Physical mechanism for freezing temperature depression:** Heterogeneous ice nucleation (HIN) is identified as the primaily mechanism for freezing of pore 
+       solution, as evidenced by the observation that the freezing temperature decreases with the decreasing solid–liquid interfacial areas, regardless of pore 
+       diameter and pore solution volume.  
+   * **Classical nucleation theory (CNT) for freezing:** We have proposed a modified CNT model for the freezing behavior of pore solutions, demonstrating excellent 
+       performance in capturing experimental data across various pore solution concentrations, achieving high R-values exceeding 0.92 for all salts.
 
   <div style="text-align: center;">
   <img src="../images/pore.PNG" alt="SubstrateEffect1" title="Sample" width="1000" />
   
 
 * **Structural evolution of ice crystals in soils: Scanning synchrotron WAXC/SAXS studies** (Taking the Lead, Dec. 2023 - Present).
+   * **High-energy particle scattering experiments:** We have conducted wide-angle and small-angle X-ray scattering in _Shanghai Synchrotron Radiation Facility_ to 
+       investigate ice structure and pore structure in variably saturated soils.
+   * **High-energy particle scattering experiments:** Two distinct forms of ice in clay soils, hexagonal Ih and cubic Ic, are identified using WAXS, while changes in 
+       pore structure are simultaneously measured down to the nanoscale (~ 2 nm) via SAXS.
 
 * **Infrared Spectroscopy for Detecting Water/water Structure and Content in Soil** (Participating in, Jan. 2024 ~ Present).
 
