@@ -28,8 +28,8 @@ Research Interests
 Water Phase Transitions and Equilibriums in Porous Media; Freezing Behavior of Water Droplets; Unsaturated Soils Mechanics. 
 
 <div style="display: flex; justify-content: center;">
-    <img src="../images/CuSO4.gif" title="Ice crystal growth in salt solutions" style="object-fit: cover; height: 150px; margin: 10px;">
-    <img src="../images/5.gif" title="Heterogeneous nucleation in capillaries" style="object-fit: cover; height: 150px; margin: 10px;">
+    <img src="../images/CuSO4.gif" title="Ice crystal growth in salt solutions" style="object-fit: cover; height: 200px; margin: 10px;">
+    <img src="../images/5.gif" title="Heterogeneous nucleation in capillaries" style="object-fit: cover; height: 200px; margin: 10px;">
     </div>
 
 Publications
@@ -40,7 +40,7 @@ Publications
 
 [3]  A paper for soil freezing curve equation. in preparation
 
-[4] A paper on structural evolution of ice crystals and soil pores during cooling. in preparation.
+[4]  A paper on structural evolution of ice crystals and soil pores during cooling. in preparation.
 
 
 Research Experience: 
