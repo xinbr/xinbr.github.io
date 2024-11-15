@@ -21,7 +21,7 @@ Education and Qualifications
 
   Core-curriculum:  Fluid Mechanics, Soil Mechanics, Structural Mechanics, Advanced Mathematics, Theory of Elasticity, Mechanics of Materials.
 
-  GPA: **3.67/4.00**.          Ranking: **3/51**.
+  GPA: **3.62/4.00**.          Ranking: **3/51**.
 
 Research Interests
 ======
@@ -40,7 +40,7 @@ Publications
 
 [3]  A paper for soil freezing curve equation. in preparation
 
-[4]  A paper on structural evolution of ice crystals and soil pores during cooling. in preparation.
+[4]  A paper on structural evolution of ice crystals and soil pores via WAXS/SAXS. in preparation.
 
 
 Research Experience: 
@@ -79,7 +79,7 @@ Research Experience:
    * **High-energy particle scattering experiments:** We have conducted wide-angle and small-angle X-ray scattering in _Shanghai Synchrotron Radiation Facility_ to investigate ice structure and pore structure in variably saturated soils.
    * **High-energy particle scattering experiments:** Two distinct forms of ice in clay soils, hexagonal Ih and cubic Ic, are identified using WAXS, while changes in pore structure are simultaneously measured down to the nanoscale (~ 2 nm) via SAXS.
 
-* **Infrared Spectroscopy for Detecting Water/water Structure and Content in Soil** (Participating in, Jan. 2024 ~ Present).
+* **Others**: Infrared Spectroscopy, Differential Scanning Calorimetry, Microfluidic Chip technology, Cryostage for freezing experiments, etc.
 
   
 
