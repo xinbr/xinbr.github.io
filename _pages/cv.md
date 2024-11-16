@@ -81,8 +81,8 @@ Research Experience:
 
 * **Others**: Infrared Spectroscopy, Differential Scanning Calorimetry, Microfluidic Chip technology, Cryostage for freezing experiments, etc.
   
-  <div style="text-align: center;">
-  <img src="../images/xray.jpg" alt="SubstrateEffect1" title="Sample" width="1000"/>
+ # <div style="text-align: center;">
+ # <img src="../images/xray.jpg" alt="SubstrateEffect1" title="Sample" width="1000"/>
   
 
 Selected Honors and Awards: 
