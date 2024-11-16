@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education and Qualifications
+Education and Qualifications:
 ======
 * **Master in Civil Engineering ([ARWU Top 15 Academic Subjects Worldwide](https://www.shanghairanking.com/rankings/gras/2023/RS0211)), Hunan University**,
    Sep. 2022 - Present
@@ -85,7 +85,7 @@ Research Experience:
   <img src="../images/xray.jpg" alt="SubstrateEffect1" title="Sample" width="1000"/>
   
 
-Selected Honors and Awards 
+Selected Honors and Awards: 
 ======
 * Outstanding Undergraduate Graduates of Hunan University, Hunan University, May 2022.
 
