@@ -106,7 +106,7 @@ Skills
   * Cryostage for freezing experiments; High-speed photography; Wide-angle and small-angle X-ray scattering (WAXS/SAXS) tests; Infrared spectroscopy; Differential 
     scanning calorimetry (DSC); Microfluidic chips
 * Software & Tools
-  * Matlab; Comsol; PDFgetX3; Fit2D; Python
+  * Matlab; COMSOL - Software for Multiphysics Simulation; PDFgetX3; Fit2D; Python
 
 
   
