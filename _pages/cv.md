@@ -85,7 +85,7 @@ Research Experience:
   <img src="../images/xray.jpg" alt="SubstrateEffect1" title="Sample" width="1000"/>
   
 
-Selected Honors and Awards
+Selected Honors and Awards 
 ======
 * Outstanding Undergraduate Graduates of Hunan University, Hunan University, May 2022.
 
