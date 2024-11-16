@@ -72,7 +72,7 @@ Research Experience:
    * **Classical nucleation theory (CNT) for freezing:** We have proposed a modified CNT model for the freezing behavior of pore solutions, demonstrating excellent performance in capturing experimental data across various pore solution concentrations, achieving high R-values exceeding 0.92 for all salts.
 
   <div style="text-align: center;">
-  <img src="../images/pore.PNG" alt="SubstrateEffect1" title="Sample" width="1000" />
+   <img src="../images/xray.PNG" alt="SubstrateEffect1" title="Sample" width="1000" />
   
 
 * **Structural evolution of ice crystals in soils: Scanning synchrotron WAXC/SAXS studies** (Taking the Lead, Dec. 2023 - Present).
