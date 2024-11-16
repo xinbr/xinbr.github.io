@@ -80,6 +80,7 @@ Research Experience:
    * **High-energy particle scattering experiments:** Two distinct forms of ice in clay soils, hexagonal Ih and cubic Ic, are identified using WAXS, while changes in pore structure are simultaneously measured down to the nanoscale (~ 2 nm) via SAXS.
 
 * **Others**: Infrared Spectroscopy, Differential Scanning Calorimetry, Microfluidic Chip technology, Cryostage for freezing experiments, etc.
+* 
   <div style="text-align: center;">
   <img src="../images/xray.PNG" alt="SubstrateEffect1" title="Sample" width="1000" />
   
