@@ -36,9 +36,9 @@ Publications
 ======
 [1] **Lin, X.**, Zhang, C.*, Hu, S. Chen, R. ["Heterogeneous ice nucleation of salt solution in porous media"](https://doi.org/10.1063/5.0190862) _The Journal of Chemical Physics_, 2024. DOI:10.1063/5.0190862
 
-[2]  A paper on Salts droplets freezing. under revision.
+[2]  A paper on salts droplets freezing. under revision.
 
-[3]  A paper for soil freezing curve equation. in preparation
+[3]  A paper for soil freezing curve equation. to be submitted.
 
 [4]  A paper on structural evolution of ice crystals and soil pores via WAXS/SAXS. in preparation.
 
