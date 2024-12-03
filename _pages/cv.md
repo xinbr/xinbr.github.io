@@ -53,18 +53,17 @@ Research Experience:
     seasonally frozen soil landslides.
 
   <div style="text-align: center;">
-  <img src="../images/SFC.PNG" alt="SubstrateEffect1" title="Sample" width="1000" />
+  <img src="../images/SFC.JPG" alt="SubstrateEffect1" title="Sample" width="1000" />
  
   
 
 * **Ice crystal propagation in supercooled salty droplets** (Taking the Lead, Sept. 2023 - Sept. 2024).
-  * **Reduction in ice crystal growth:** Salts dissolved in water droplets markedly retard ice crystal growth during recalescence, with the effect being up to 98.8% 
+  * **Reduction in ice crystal growth:** Salts dissolved in water droplets markedly retard ice crystal growth , with the effect being up to 98.8% 
     for a 1 mol/L magnesium chloride solution compared to pure water, varying with salt concentrations and types.
-  * **Physical mechanisms:** The retardation is attributed to the reduction in water diffusivity caused by the presence of salts, and we have proposed a new 
-    diffusivity equation to capture this effect.
+  * **Proposed model:** The classical Wilson-Frenkel model is modified to capture the freezing behavior of the  droplet with varying with salt concentrations and types.
 
   <div style="text-align: center;">
-  <img src="../images/droplet.PNG" alt="SubstrateEffect1" title="Sample" width="1000" />
+  <img src="../images/SALT.JPG" alt="SubstrateEffect1" title="Sample" width="1000" />
  
 
 * **Heterogeneous ice nucleation of salt solution in porous media** (Taking the Lead, Oct. 2022 - Oct. 2023).
