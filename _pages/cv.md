@@ -53,7 +53,7 @@ Research Experience:
     seasonally frozen soil landslides.
 
   <div style="text-align: center;">
-  <img src="../images/SFC.JPG" alt="SubstrateEffect1" title="Sample" width="1000" />
+  <img src="../images/SFC.jpg" alt="SubstrateEffect1" title="Sample" width="1000" />
  
   
 
@@ -63,7 +63,7 @@ Research Experience:
   * **Proposed model:** The classical Wilson-Frenkel model is modified to capture the freezing behavior of the  droplet with varying with salt concentrations and types.
 
   <div style="text-align: center;">
-  <img src="../images/SALT.JPG" alt="SubstrateEffect1" title="Sample" width="1000" />
+  <img src="../images/SALT.jpg" alt="SubstrateEffect1" title="Sample" width="1000" />
  
 
 * **Heterogeneous ice nucleation of salt solution in porous media** (Taking the Lead, Oct. 2022 - Oct. 2023).
