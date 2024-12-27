@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently a graduate student in the College of Civil Engineering at Hunan University, supervised by [Prof. Chao Zhang](https://www.researchgate.net/profile/Chao-Zhang-43). I joined Prof. Zhang's [UNSAT lab](https://chaozhanghnu.github.io) in 2021 as a 3-rd year undergraduate student, and completed my B.S. degree in 2020 at the same institution.
+* I am currently a graduate student in the College of Civil Engineering at [Hunan University](https://www-en.hnu.edu.cn/), supervised by [Prof. Chao Zhang](https://www.researchgate.net/profile/Chao-Zhang-43). I joined Prof. Zhang's [UNSAT lab](https://chaozhanghnu.github.io) in 2021 as a 3-rd year undergraduate student, and completed my B.S. degree in 2020 at the same institution.
 
 * My passion lies in comprehending the diverse and intriguing **phase equilibrium and transition processes of water** in porous media (also include water droplets), and unraveling their implications on the behaviour of frozen porous materials. I am try to integrate cutting-edge insights from **surface and interfacial science**, **nucleation theory**, and **soil-water interaction theory**, while utilizing advanced **microscopic experiments** (e.g., microfluidic chip, synchrotron X-ray wide-angle/small-angle scattering, infrared spectroscopy, high-speed photography, etc.) to delve into the physics mechanisms underlying **water freezing and melting, ice propagation dynamics, and water flow in frozen soil**. Additionally, my research also involves modeling thermal-hydraulic-mechanical processes, such as permafrost degradation and landslides, in cold regions against the backdrop of global climate change.
   
