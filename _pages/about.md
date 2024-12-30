@@ -11,6 +11,8 @@ redirect_from:
 
 * My passion lies in comprehending the diverse and intriguing **phase equilibrium and transition processes of water** in porous media (also include water droplets), and unraveling their implications on the behaviour of frozen porous materials. I am try to integrate cutting-edge insights from **surface and interfacial science**, **nucleation theory**, and **soil-water interaction theory**, while utilizing advanced **microscopic experiments** (e.g., microfluidic chip, synchrotron X-ray wide-angle/small-angle scattering, infrared spectroscopy, high-speed photography, etc.) to delve into the physics mechanisms underlying **water freezing and melting, ice propagation dynamics, and water flow in frozen soil**. Additionally, my research also involves modeling thermal-hydraulic-mechanical processes, such as permafrost degradation and landslides, in cold regions against the backdrop of global climate change.
   
+* In my leisure time, I am an avid extreme sports enthusiast with a passion for basketball, gym workouts (approximately three to four times a week), occasional football matches, table tennis games, and swimming. 生命在于运动！(life lies in movement)
+  
 * If you are interested in my research, please feel free to contact me via email [xin_lin@hnu.edu.cn](mailto:xin_lin@hnu.edu.cn) ([17561652702@163.com](mailto:17561652702@163.com)) or Wechat: LX824KBLove
   
 
