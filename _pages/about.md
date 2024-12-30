@@ -18,7 +18,7 @@ redirect_from:
 
 News
 ======
-**Test (11/2024):** I pass the IELTS test with 7.0 overall (Listening 7.5, Reading 7.5, Writing 6.5, Speaking 5.5).
+**Test (11/2024):** I pass the IELTS test with band 7.0 overall (Listening 7.5, Reading 7.5, Writing 6.5, Speaking 5.5).
 
 **Conference(05/24):** I attenend the _InterPore Annual Meeting_ at Qingdao and presented a poster.
 
