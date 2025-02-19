@@ -36,7 +36,7 @@ Publications
 ======
 [1] **Lin, X.**, Zhang, C.*, Hu, S. Chen, R. ["Heterogeneous ice nucleation of salt solution in porous media"](https://doi.org/10.1063/5.0190862) _The Journal of Chemical Physics_, 2024. DOI:10.1063/5.0190862
 
-[2]  Zhang C., Zhao N., Hu S., and **Lin X#.**, Salts Retard Ice Crystal Growth in Supercooled Droplets during Recalescence.
+[2]  Zhang C., Zhao N., Hu S., and **Lin X*.**, Salts Retard Ice Crystal Growth in Supercooled Droplets during Recalescence.
 
 [3]  Zhang C., **Lin X.**, Hu S., and Lu N., Predicting Soil Freezing Curve via a Modified Clapeyron Equation. Under review.
 
